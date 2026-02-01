@@ -66,11 +66,11 @@ function Game:update(dt)
     local curFrame = G.SubwayGif.subway_frames[G.SubwayGif.subway_current_frame]
 
     if check_pos_collision(mouse_x, mouse_y, G.SubwayGif.pos_x, G.SubwayGif.pos_y, curFrame:getWidth(), curFrame:getHeight()) then
-        G.SubwayGif.opacity = clamp(0, G.SubwayGif.opacity - (1000 * dt), 255)
+        G.SubwayGif.opacity = clamp(25, G.SubwayGif.opacity - (1000 * dt), 255)
     elseif check_pos_collision(mouse_x - 100, mouse_y - 100, G.SubwayGif.pos_x, G.SubwayGif.pos_y, curFrame:getWidth() + 100, curFrame:getHeight() + 100) then
-        G.SubwayGif.opacity = clamp(0, G.SubwayGif.opacity - (500 * dt), 255)
+        G.SubwayGif.opacity = clamp(25, G.SubwayGif.opacity - (500 * dt), 255)
     else 
-        G.SubwayGif.opacity = clamp(0, G.SubwayGif.opacity + (1000 * dt), 255)
+        G.SubwayGif.opacity = clamp(25, G.SubwayGif.opacity + (1000 * dt), 255)
     end
 
     if math.random(1, 50000) == 1 then
