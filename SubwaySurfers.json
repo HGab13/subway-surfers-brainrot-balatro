@@ -1,0 +1,14 @@
+{
+	"id": "SubwayS",
+	"name": "Subway Surfers Brainrot",
+	"display_name": "Subway Surfers Brainrot",
+	"author": ["M3rCURY-07"],
+	"description": "Skibidi ohio rizz sigma labubu dubai chocolate there's now a gif of subway surfers on the top left of the screen matcha lowkirkontologicalflowstate esotericakirkenuinely",
+	"prefix": "SubwayS",
+	"main_file": "SubwaySurfers.lua",
+	"priority": 0,
+	"badge_colour": "A7A7A7",
+	"badge_text_colour": "000000",
+	"version": "1.0.0",
+	"dependencies": []
+}
