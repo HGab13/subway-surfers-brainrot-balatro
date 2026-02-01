@@ -1,7 +1,7 @@
 --- STEAMODDED HEADER
 --- MOD_NAME: Subway Surfers Brainrot
 --- MOD_ID: SubwayS
---- MOD_AUTHOR: [M3rCURY-07]
+--- MOD_AUTHOR: [HGab13]
 --- MOD_DESCRIPTION: Skibidi ohio rizz stimulation a gif of subway surfers has appeared on the top left of your screen matcha labubu dubai chocolate
 
 ----------------------------------------------
