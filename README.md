@@ -1,4 +1,6 @@
 # subway-surfers-brainrot-balatro
+Mod for Balatro v1.0.1o
+
 Modded balatro, but there's a Subway Surfers gif playing on the top left of your screen.
 There's also a rare chance that a segment of the main theme plays, but what are the odds for that?
 
